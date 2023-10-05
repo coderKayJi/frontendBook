@@ -1,6 +1,5 @@
 const initialState = {
   currentUser: null,
-  mobileNo: null,
 }
 
 export default (state = initialState, action) => {
